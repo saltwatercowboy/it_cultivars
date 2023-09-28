@@ -6,7 +6,7 @@ Includes range testing for learning rates, train/test splits, and visualisations
 ## Dataset
 The [dataset](https://archive.ics.uci.edu/dataset/109/wine) is a small, 'well-behaved' (i.e., no missing values, fairly regular feature distribution though classes are slightly unbalanced) example of tabular data useful for testing the first versions of a model or learning projects. 
 
-## Example visualisations
+## Example charts
 
 ![val_loss_example](https://github.com/saltwatercowboy/it_cultivars/assets/61621232/32c759f6-b2bf-4ab4-bccb-2af7525ef994)
 
